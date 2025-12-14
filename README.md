@@ -126,3 +126,7 @@ Server:
   127.0.0.0/8
  Live Restore Enabled: false
 ``` 
+
+## More details
+
+See [NFS on k3d inside GitHub Codespaces | John Lian](https://johnlian.net/posts/k3d-nfs/).
