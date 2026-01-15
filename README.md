@@ -9,7 +9,7 @@ Add NFS support in k3d using custom k3s dockerfile. Useful for GitHub Codespace.
 ## To use
 
 ```sh
-k3d cluster create -i ghcr.io/jlian/k3d-nfs:v1.29.1-k3s1
+k3d cluster create -i ghcr.io/jlian/k3d-nfs:v1.31.4-k3s1
 ```
 
 ## To do
